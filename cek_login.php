@@ -1,1 +1,5 @@
-cek_login.php
+<?php
+
+include "dashboard.php";
+
+?>
